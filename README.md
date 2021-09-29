@@ -1,4 +1,4 @@
-<a href="#"><img width="auto" height="auto" src="https://external-preview.redd.it/g9FWi9zvv5HQRshZTUryuVVMN3ebixV2qbdxqZnzD7U.jpg?auto=webp&s=d4ddda0e1af5a020f6e3bae050e505d25ed4b6fc" height="175px"/></a>
+<a href="#"><img width="auto" height="auto" src="https://technonguide.com/wp-content/uploads/2021/03/machine-learning-course.jpeg" height="175px"/></a>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bala</h1>
 <h3 align="center"> I'm a Data Scientist - Machine Learning Engineer.</h3>
