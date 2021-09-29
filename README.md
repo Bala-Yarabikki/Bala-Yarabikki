@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://www.cloudyml.com/wp-content/uploads/2021/06/70332https___specials-images.forbesimg.com_dam_imageserve_966248982_960x0.jpg" height="150px"/></a>
+<a href="#"><img width="100%" src="https://www.cloudyml.com/wp-content/uploads/2021/06/70332https___specials-images.forbesimg.com_dam_imageserve_966248982_960x0.jpg" height="175px"/></a>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bala</h1>
 <h3 align="center"> I'm a Data Scientist - Machine Learning Engineer.</h3>
