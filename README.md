@@ -1,4 +1,4 @@
-<a href="#"><img width="400" height="400" src="https://technonguide.com/wp-content/uploads/2021/03/machine-learning-course.jpeg" height="175px"/></a>
+<center><a href="#"><img width="400" height="auto" src="https://technonguide.com/wp-content/uploads/2021/03/machine-learning-course.jpeg" height="175px"/></a></center>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bala</h1>
 <h3 align="center"> I'm a Data Scientist - Machine Learning Engineer.</h3>
