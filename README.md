@@ -69,7 +69,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yarabikki-bala/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.hackerrank.com/balachowdary777"><img src="https://img.icons8.com/windows/32/ffffff/hackerrank.png"/></a>
+<a href = "https://www.hackerrank.com/balachowdary777"><img src="https://img.icons8.com/windows/32/4a90e2/hackerrank.png"/></a>
 
 </p>
 
