@@ -10,7 +10,7 @@
 
 - 🌱 **I’m currently looking for a Full Time position .**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 **AWS machine learning and associate certified** **[Certificate Details](https://www.credly.com/users/bala-veeraiah-yarabikki/badges)**
 
