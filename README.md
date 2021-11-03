@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 **I’m currently working on** **Several Deep Learning Projects with Mobile apps**
+- 🔭 **I’m currently working on** **MLOps**
 
-- 🌱 **I’m currently looking for a Full Time position .**
+- 🌱 **Looking for a Full Time position.**
 
 - 👯 Looking to collaborate on **OpenSource Projects**
 
